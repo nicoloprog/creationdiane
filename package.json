@@ -6,6 +6,8 @@
     "start": "next start"
   },
   "dependencies": {
+    "@fontsource/satisfy": "^5.2.6",
+    "@fontsource/unifrakturcook": "^5.2.6",
     "classnames": "^2.5.1",
     "date-fns": "^3.6.0",
     "gray-matter": "^4.0.3",

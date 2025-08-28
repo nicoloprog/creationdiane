@@ -8,6 +8,12 @@ importers:
 
   .:
     dependencies:
+      '@fontsource/satisfy':
+        specifier: ^5.2.6
+        version: 5.2.6
+      '@fontsource/unifrakturcook':
+        specifier: ^5.2.6
+        version: 5.2.6
       classnames:
         specifier: ^2.5.1
         version: 2.5.1
@@ -63,6 +69,12 @@ packages:
 
   '@emnapi/runtime@1.4.5':
     resolution: {integrity: sha512-++LApOtY0pEEz1zrd9vy1/zXVaVJJ/EbAF3u0fXIzPJEDtnITsBGbbK0EkM72amhl/R5b+5xx0Y/QhcVOpuulg==}
+
+  '@fontsource/satisfy@5.2.6':
+    resolution: {integrity: sha512-W3zcVpOzEZpYjdCWyfIFsW2NWoerot0oqKb4XDn2E1N/LVZE/64CHF36/SOjGqQvUXilAlJifyZhCFwlTqpdaw==}
+
+  '@fontsource/unifrakturcook@5.2.6':
+    resolution: {integrity: sha512-J6bXTZNtlWiQX2wqtTzfi39G2A7GXk82EJJrHN50p4DIIjFs+OuOgB4ndWeBZu0wMLxTqx8tgXmJ3x+8febIzA==}
 
   '@img/sharp-darwin-arm64@0.33.5':
     resolution: {integrity: sha512-UT4p+iz/2H4twwAoLCqfA9UH5pI6DggwKEGuaPy7nCVQ8ZsiY5PIcrRvD1DzuY3qYL07NtIQcWnBSY/heikIFQ==}
@@ -1050,6 +1062,10 @@ snapshots:
     dependencies:
       tslib: 2.8.1
     optional: true
+
+  '@fontsource/satisfy@5.2.6': {}
+
+  '@fontsource/unifrakturcook@5.2.6': {}
 
   '@img/sharp-darwin-arm64@0.33.5':
     optionalDependencies:

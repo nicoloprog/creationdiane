@@ -27,6 +27,9 @@ const config: Config = {
       letterSpacing: {
         tighter: "-.04em",
       },
+      fontFamily: {
+        satisfy: ["Satisfy", "cursive"],
+      },
       fontSize: {
         "5xl": "2.5rem",
         "6xl": "2.75rem",

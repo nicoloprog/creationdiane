@@ -30,7 +30,7 @@ export function HeroPost({ title, coverImage, excerpt, slug }: Props) {
             href={`/posts/${slug}`}
             className="inline-block px-6 py-3 text-lg font-medium text-gray-700 bg-gradient-to-r from-gray-300 to-gray-300 rounded-xl shadow-lg hover:scale-105 hover:shadow-xl transition-all duration-300"
           >
-            Voir tous les articles de Diane
+            Découvrez-en plus ici !
           </Link>
         </div>
       </div>
