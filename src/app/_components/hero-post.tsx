@@ -12,7 +12,7 @@ type Props = {
 export function HeroPost({ title, coverImage, excerpt, slug }: Props) {
   return (
     <section>
-      <div className="mb-8 md:mb-16">
+      <div className="mb-4 md:mb-8">
         <Image
           src="/imagehero.jpg"
           alt={title}

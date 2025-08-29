@@ -1,6 +1,7 @@
 ---
 title: "Tous les produits de Diane"
-excerpt: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus."
+excerpt: "Mieux vaut prévenir avec le froid qui arrive ! Il est temps de se couvrir avec de petites laines: foulards, tuques, cache-cous et bandeaux. Et pour couronner le tout, découvrez le foulard à capuchon, la pièce incontournable !
+Tout est tricoté à la main avec soin."
 coverImage: "/assets/blog/dynamic-routing/cover.jpg"
 date: "2020-03-16T05:35:07.322Z"
 author:

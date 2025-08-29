@@ -1,6 +1,6 @@
 ---
-title: "Learn How to Pre-render Pages Using Static Generation with Next.js"
-excerpt: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus."
+title: "Un petit mots ..."
+excerpt: "Quand le froid se fait sentir, pensez aux créations de Diane. Même en plein hiver, une bonne tuque ou un bandeau pour protéger les oreilles fait toute la différence. Et lors des sorties de magasinage, quand l’air climatisé est trop fort, un foulard de coton léger sur les épaules est tout simplement parfait. Découvrez le confort et le style avec Créations Diane."
 coverImage: "/assets/blog/hello-world/cover.jpg"
 date: "2020-03-16T05:35:07.322Z"
 author:
