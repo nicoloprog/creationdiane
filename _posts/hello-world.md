@@ -1,5 +1,5 @@
 ---
-title: "Un petit mots ..."
+title: "Un petit mot ..."
 excerpt: "Quand le froid se fait sentir, pensez aux créations de Diane. Même en plein hiver, une bonne tuque ou un bandeau pour protéger les oreilles fait toute la différence. Et lors des sorties de magasinage, quand l’air climatisé est trop fort, un foulard de coton léger sur les épaules est tout simplement parfait. Découvrez le confort et le style avec Créations Diane."
 coverImage: "/assets/blog/hello-world/cover.jpg"
 date: "2020-03-16T05:35:07.322Z"
