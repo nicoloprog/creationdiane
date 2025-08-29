@@ -1,5 +1,5 @@
 ---
-title: "Contactez Diane, merci !"
+title: "Contactez Diane !"
 excerpt: "450 884-0424"
 coverImage: "/assets/blog/preview/cover.jpg"
 date: "2020-03-16T05:35:07.322Z"
