@@ -12,6 +12,22 @@ export default async function Post(props: Params) {
   const post = getPostBySlug(params.slug);
 
   const images = [
+    "/image42.jpg",
+    "/image36.jpg",
+    "/image37.jpg",
+    "/image38.jpg",
+    "/image39.jpg",
+    "/image40.jpg",
+    "/image41.jpg",
+    "/image35.jpg",
+    "/image43.jpg",
+    "/image44.jpg",
+    "/image45.jpg",
+    "/image46.jpg",
+    "/image47.jpg",
+    "/image48.jpg",
+    "/image49.jpg",
+    "/image50.jpg",
     "/image29.jpg",
     "/image32.jpg",
     "/image2.jpg",
